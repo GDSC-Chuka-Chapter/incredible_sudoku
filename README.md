@@ -6,8 +6,8 @@
 ## Contribution
 - Fork the repo 🍴
 - Create a virtual environment using [Poetry](https://python-poetry.org)
-- Add your information in the [pyproject.toml file](pyproject.toml) and the [authors section of this ReadMe file](#authors)
 - Make your contribution
+- Add your information in the [pyproject.toml file](pyproject.toml) and the [authors section of this ReadMe file](#authors)
 - Create a pull request
 - Wait for confirmation
 
